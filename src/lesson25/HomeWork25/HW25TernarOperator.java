@@ -1,4 +1,4 @@
-package lesson25;
+package lesson25.HomeWork25;
 
 public class HW25TernarOperator {
     public static void main(String[] args) {

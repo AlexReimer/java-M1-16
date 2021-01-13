@@ -13,12 +13,11 @@ public class HW25WhileDoWhile {
 
         /*Даны целые числа A и B, где B > 0. Вывести B раз число A.*/
         printNumberA(15, 5);
-
     }
 
     private static void printNumberA(int a, int b) {
         int count = 0;
-        while (count <= 4) {
+        while (count <= b) {
             System.out.println(a);
             count++;
         }

@@ -23,6 +23,9 @@ public class HW27 {
 
         System.out.println("_________");
 
+        /*Return the number of times that the string "hi"
+        appears anywhere in the given string.
+         */
         System.out.println(countHi("abc hi ho"));// → 1
         System.out.println(countHi("ABChi hi"));// → 2
         System.out.println(countHi("hihi"));// → 2
@@ -31,33 +34,34 @@ public class HW27 {
 
     private static int countHi(String str) {
         int count = 0;
-        for (int i = 0; i < str.length(); i++) {
-            if (str.contains("hi")) {
+        //String substring = "hi";
+        for (int i = 0; i < str.length() - 1; i++) {
+            if (str.charAt(i) == 'h' && str.charAt(i - 1) == 'i'){
                 count++;
             }
         }
         return count;
     }
 
-        private static int loneSum ( int a, int b, int c){
-            if (a != b && a != c && c != b) return a + b + c;
-            if (a == b && b != c) return c;
-            if (a == c && c != b) return b;
-            if (a != b && b == c) return a;
+    private static int loneSum(int a, int b, int c) {
+        if (a != b && a != c && c != b) return a + b + c;
+        if (a == b && b != c) return c;
+        if (a == c && c != b) return b;
+        if (a != b && b == c) return a;
+        return 0;
+    }
+
+    private static int blackjack(int a, int b) {
+        if (a == 21 && b < 21) return a;
+        if (b == 21 && a < 21) return b;
+        if (a > 21) return b;
+        if (b > 21) {
+            return a;
+        } else {
             return 0;
         }
-
-        private static int blackjack ( int a, int b){
-            if (a == 21 && b < 21) return a;
-            if (b == 21 && a < 21) return b;
-            if (a > 21) return b;
-            if (b > 21) {
-                return a;
-            } else {
-                return 0;
-            }
-        }
     }
+}
 
 
 

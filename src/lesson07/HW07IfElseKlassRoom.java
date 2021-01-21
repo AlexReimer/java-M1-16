@@ -32,7 +32,7 @@ public class HW07IfElseKlassRoom {
         } else if (way == 3) {
             System.out.println("прямо");
         } else {
-            System.out.println("кудато");
+            System.out.println("куда-то");
         }
         return result;
     }

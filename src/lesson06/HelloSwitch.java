@@ -18,10 +18,10 @@ public class HelloSwitch {
         myFirstSwitch(2);
     }
 
-    public static void myFirstSwitch (int schoolScore){
+    public static void myFirstSwitch(int schoolScore) {
         String prize = "";//награда получаемая
         //switch - оператор выбора, ключевое слово,
-        switch (schoolScore){
+        switch (schoolScore) {
             case 1:
                 prize = "Лучше и не спрашивай";
                 break;
@@ -29,16 +29,16 @@ public class HelloSwitch {
                 prize = "За двойку отругают";
                 break;
             case 3:
-                prize= "Хотя бы не поругаеют";
-            break;
+                prize = "Хотя бы не поругаеют";
+                break;
             case 4:
-                prize= "goPro новая";
+                prize = "goPro новая";
                 break;
             case 5:
-                prize= "велосипед";
+                prize = "велосипед";
                 break;
             default:
-                prize= "Такой оценки не существует"; //default - на случай, что придет значение,
+                prize = "Такой оценки не существует"; //default - на случай, что придет значение,
                 // которое мы не учитывали
                 break;
         }

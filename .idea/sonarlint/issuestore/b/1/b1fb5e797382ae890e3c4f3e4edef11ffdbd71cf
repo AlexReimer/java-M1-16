@@ -1,0 +1,14 @@
+
+f
+java:S2583."DChange this condition so that it does not always evaluate to "false"(½ï‚ûÿÿÿÿ8áÞÅ¤ò.
+>	java:S1084")Either remove or fill this block of code.(å¥ž‡
+Q	java:S125!"<This block of commented-out lines of code should be removed.(äç…æ
+M	java:S1066"9Replace this use of System.out or System.err by a logger.(´±à
+a
+java:S25832"DChange this condition so that it does not always evaluate to "false"(×¾ãº8¶ÏÇ¤ò.
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±àŠ`
+Q	java:S125"<This block of commented-out lines of code should be removed.(´Œþ‰
+a
+java:S25830"DChange this condition so that it does not always evaluate to "false"(šÅØð8ŸàÈ¤ò.
+M
+java:S1172)"+Remove this unused method parameter "turn".(±à¾Ãùÿÿÿÿ8ŸàÈ¤ò.

@@ -1,0 +1,14 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–Õšÿûÿÿÿÿ
+X
+java:S1854"BRemove this useless assignment to local variable "myUnknownMonth".(Í©‰ÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(É¥ª£ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÄÅŒëÿÿÿÿÿ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(Ý Œ’
+M	java:S1065"9Replace this use of System.out or System.err by a logger.(Ïý»
+I
+java:S1481"3Remove this unused "myUnknownMonth" local variable.(Í©‰ÿ
+F
+java:S1481"+Remove this unused "output" local variable.(ýÒ›Ùùÿÿÿÿ
+A
+java:S1481"+Remove this unused "result" local variable.(žìþ“

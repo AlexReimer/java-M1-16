@@ -1,0 +1,18 @@
+
+U
+java:S1854"?Remove this useless assignment to local variable "monthNumber".(” ¸
+Z
+java:S1854"?Remove this useless assignment to local variable "monthNumber".(«ªıÿÿÿÿ
+Z
+java:S1854"?Remove this useless assignment to local variable "monthNumber".(õÇâ—øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ú İÿÿÿÿÿ
+U
+java:S1854"?Remove this useless assignment to local variable "monthNumber".(öÉîÕ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–Õšÿûÿÿÿÿ
+a	java:S128#"LEnd this switch case with an unconditional break, return or throw statement.(›¼àè
+f	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(ÛÂûŠÿÿÿÿÿ
+f	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(Æ©„Úùÿÿÿÿ
+a	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(îøíà
+Z
+java:S1854$"?Remove this useless assignment to local variable "monthNumber".(ºÑ‰¨øÿÿÿÿ
+f	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(İà‚¦üÿÿÿÿ

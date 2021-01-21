@@ -5,6 +5,7 @@ public class SwitchRewiew {
         String uncle = "Дядя Саша";
         int floor = 19;
         System.out.println("Э алло " + elevator(floor));
+        System.out.println(elevator(10));
     }
 
     public static String elevator(int level) {

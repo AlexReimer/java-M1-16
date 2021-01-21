@@ -18,6 +18,5 @@ public class Arifmethika {
             System.out.println(a);
             ++a; //пока не пользоваться
         }
-
     }
 

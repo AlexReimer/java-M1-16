@@ -40,12 +40,12 @@ public class HomeWork07IfElse {
 
     public static void knightByStone(int turn) {
         String stoneMassage = "";
-        int turnLeft = 1;
-        int turnRight = 2;
-        int straight = 3;
-        if (turn == 1) {
+        int turnLeft = 0;
+        int turnRight =0 ;
+        int straight = 0;
+        if (turnLeft == 1) {
             stoneMassage = "Коня потеряешь";
-        } else if (turn == 2) {
+        } else if (turnRight == 2) {
             stoneMassage = "Згинешь безвестно";
         } else if (straight == 3) {
             stoneMassage = "Коль выживешь, найдешь жОну и богатство";

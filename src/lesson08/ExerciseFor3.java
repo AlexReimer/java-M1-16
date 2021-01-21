@@ -17,7 +17,7 @@ public class ExerciseFor3 {
     private static void happyPelmeni() {
         for (int i = 0; i < 10; i++) {
             if (i == 5) {
-                System.out.println("Happy Dumplings " + i);
+                System.out.println("Happy Dumplings is #" + i);
                 //здесь без else, потому что
             }
 

@@ -1,0 +1,27 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(…»ê¬
+L
+java:S1854"6Remove this useless assignment to local variable "SP".(ŞÅÚª
+S	java:S106"9Replace this use of System.out or System.err by a logger.(…‰¹ìşÿÿÿÿ
+U
+java:S1854":Remove this useless assignment to local variable "radius".(­ı½ºúÿÿÿÿ
+:
+java:S1659"Declare "b" on a separate line.(äöÍÖşÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(…»ê¬
+V	java:S125"<This block of commented-out lines of code should be removed.(²ªÖµøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚÷ìçùÿÿÿÿ
+B
+java:S1481"'Remove this unused "pi" local variable.(œêò´ûÿÿÿÿ
+A
+java:S1481"&Remove this unused "a" local variable.(äöÍÖşÿÿÿÿ
+F
+java:S1481"+Remove this unused "radius" local variable.(­ı½ºúÿÿÿÿ
+=
+java:S1481"'Remove this unused "SP" local variable.(ŞÅÚª
+V	java:S125
+"<This block of commented-out lines of code should be removed.(òêÎÒøÿÿÿÿ
+A
+java:S1481"&Remove this unused "b" local variable.(äöÍÖşÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¾ŸÚúÿÿÿÿ
+Q
+java:S1854"6Remove this useless assignment to local variable "pi".(œêò´ûÿÿÿÿ

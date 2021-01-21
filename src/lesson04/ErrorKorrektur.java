@@ -9,7 +9,7 @@ public class ErrorKorrektur {
         String hausmaster = "Василий";
         System.out.println(hausmaster.substring(0, 3));
         System.out.println(hausmaster.substring(5));
-        System.out.println(hausmaster.substring(3));
+        System.out.println(hausmaster.substring(4));
         System.out.println(hausmaster.charAt(3));
     }
 

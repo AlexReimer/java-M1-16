@@ -28,6 +28,7 @@ public abstract class MagicGame {
     }
 
     private static void variant1() {
+        //swap
         int a = 5;
         int b = 8;
         //код

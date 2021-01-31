@@ -1,0 +1,21 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¦œß®8ÇÒ×ò.
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(ºâ³úÿÿÿÿ8µşØò.
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÁÃ½
+X
+java:S1854"<Remove this useless assignment to local variable "average2".(˜’³E8æìä×ò.
+X	java:S125
+"<This block of commented-out lines of code should be removed.(ì¢¬…8œ‹ú×ò.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(éæ÷˜şÿÿÿÿ8öèÊ×ò.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¦œß®8œøğ×ò.
+^
+java:S2184"BCast one of the operands of this division operation to a "double".(˜’³E8ƒƒã×ò.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ê›¨í8öèÊ×ò.
+Š
+java:S1192"hDefine a constant instead of duplicating this literal "The sum of numbers from --- to --- is: " 3 times.(éæ÷˜şÿÿÿÿ8µşØò.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ê›¨í8ƒƒã×ò.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(å‰Ù8ƒƒã×ò.
+d
+java:S2184"BCast one of the operands of this division operation to a "double".(æúÛıÿÿÿÿ8ÿ—Ì×ò.
+I
+java:S1481"-Remove this unused "average2" local variable.(˜’³E8æìä×ò.

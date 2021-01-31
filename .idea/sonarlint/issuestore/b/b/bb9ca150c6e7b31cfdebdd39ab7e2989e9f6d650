@@ -1,7 +1,8 @@
 
-G
-java:S1481"*Remove this unused "uncle" local variable.(ÆœÕÓ8¦’¥ò.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(¡ÎÓŞøÿÿÿÿ8¦’¥ò.
 n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±àŠ`
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¡ÎÓŞøÿÿÿÿ8¦’¥ò.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÜĞÓóÿÿÿÿÿ8ªû¦ò.
 V
 java:S1854"9Remove this useless assignment to local variable "uncle".(ÆœÕÓ8¦’¥ò.
+G
+java:S1481"*Remove this unused "uncle" local variable.(ÆœÕÓ8¦’¥ò.

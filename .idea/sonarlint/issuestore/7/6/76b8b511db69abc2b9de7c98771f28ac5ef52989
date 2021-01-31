@@ -1,12 +1,12 @@
 
-S	java:S106"9Replace this use of System.out or System.err by a logger.(¦Å¢©ûÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
 N	java:S106"9Replace this use of System.out or System.err by a logger.(şœ¾
 o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±Ûˆ˜
+D
+java:S2140	")Use "java.util.Random.nextInt()" instead.(§ô¿Üùÿÿÿÿ
 J
 java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ
 ?
 java:S2140")Use "java.util.Random.nextInt()" instead.(şœ¾
-D
-java:S2140	")Use "java.util.Random.nextInt()" instead.(§ô¿Üùÿÿÿÿ
-S	java:S106
-"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¦Å¢©ûÿÿÿÿ

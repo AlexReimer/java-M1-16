@@ -1,0 +1,10 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÁÃ½
+I
+java:S1481",Remove this unused "sumEven" local variable.(¸¥©“8­§ó³ó.
+X	java:S125"<This block of commented-out lines of code should be removed.(¹¾Ô×8¢®ê³ó.
+]	java:S125"<This block of commented-out lines of code should be removed.(ÞÊÐãþÿÿÿÿ8õ½â³ó.
+J
+java:S1172"(Remove this unused method parameter "a".(¬þÂúúÿÿÿÿ8µ¦à³ó.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Œ©Ëùþÿÿÿÿ8Ùêë³ó.
+]	java:S125"<This block of commented-out lines of code should be removed.(ø­î™üÿÿÿÿ8ëÂê³ó.
